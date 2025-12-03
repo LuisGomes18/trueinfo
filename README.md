@@ -102,7 +102,3 @@ Filtering tools do not replace human verification. Use ethical, verifiable crite
 ## Contributions
 
 PRs are welcome. For policy changes related to filtering, describe criteria and evidence. For new features, include tests when possible.
-
----
-
-Se quiser, posso também **melhorar a redação em inglês**, deixar mais profissional, simplificar, ou fazer uma versão mais curta.
