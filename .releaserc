@@ -1,9 +1,0 @@
-{
-  "version_source": "tag",
-  "branch": "main",
-  "upload_to_pypi": false,
-  "github": {
-    "repository": "LuisGomes18/trueinfo",
-    "token": "${GITHUB_TOKEN}"
-  }
-}
